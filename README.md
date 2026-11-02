@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 6 problems · 0 labs · 9 math
+**19** solved · 9 problems · 0 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,8 +16,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-29 | [solution](problems/0083-dot-product-calculator) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-29 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-29 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-11-02 | [solution](problems/0334-cholesky-decomposition) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-31 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
+| [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-11-02 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-29 | [solution](problems/0009-matrix-times-matrix) |
+| [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-11-02 | [solution](problems/0201-qr-decomposition) |
 
 ## Math
 
@@ -29,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Arithmetic Intensity of Matmul vs Decode Attention](https://www.deep-ml.com/math-problems/63) | medium | 2026-11-23 | [solution](math/0063-arithmetic-intensity-of-matmul-vs-decode-attention) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-30 | [solution](math/0012-inverse-and-rank) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-29 | [solution](math/0010-matrix-multiplication) |
+| [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-11-02 | [solution](math/0014-orthogonality-and-projections) |
 | [Roofline: Time is the Max of Bytes/BW and FLOPs/Peak](https://www.deep-ml.com/math-problems/64) | medium | 2026-11-23 | [solution](math/0064-roofline-time-is-the-max-of-bytes-bw-and-flops-peak) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-10-30 | [solution](math/0013-solving-linear-systems) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-10-31 | [solution](math/0015-matrix-decompositions-lu-and-qr) |

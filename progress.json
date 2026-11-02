@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:48:44.598Z",
+  "generated_at": "2026-11-23T18:48:47.441Z",
   "items": {
     "math:62": {
       "kind": "math",
@@ -177,6 +177,56 @@
       "last_pushed_at": "2026-10-31T12:59:28.875Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:333": {
+      "kind": "problem",
+      "id": "333",
+      "title": "LU Decomposition of a Square Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/333",
+      "path": "problems/0333-lu-decomposition-of-a-square-matrix",
+      "first_solved_at": "2026-11-02T18:53:50.030Z",
+      "last_pushed_at": "2026-11-02T18:53:50.030Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:334": {
+      "kind": "problem",
+      "id": "334",
+      "title": "Cholesky Decomposition",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/334",
+      "path": "problems/0334-cholesky-decomposition",
+      "first_solved_at": "2026-11-02T19:16:53.837Z",
+      "last_pushed_at": "2026-11-02T19:16:53.837Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:201": {
+      "kind": "problem",
+      "id": "201",
+      "title": "QR Decomposition",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/201",
+      "path": "problems/0201-qr-decomposition",
+      "first_solved_at": "2026-11-02T19:23:30.078Z",
+      "last_pushed_at": "2026-11-02T19:23:30.078Z",
+      "language": "python",
+      "lines": 19
+    },
+    "math:14": {
+      "kind": "math",
+      "id": "14",
+      "title": "Orthogonality and Projections",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/14",
+      "path": "math/0014-orthogonality-and-projections",
+      "first_solved_at": "2026-11-02T19:34:40.788Z",
+      "last_pushed_at": "2026-11-02T19:34:40.788Z"
     }
   }
 }
