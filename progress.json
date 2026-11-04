@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:48:47.441Z",
+  "generated_at": "2026-11-23T18:48:50.116Z",
   "items": {
     "math:62": {
       "kind": "math",
@@ -227,6 +227,78 @@
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-11-02T19:34:40.788Z",
       "last_pushed_at": "2026-11-02T19:34:40.788Z"
+    },
+    "math:34": {
+      "kind": "math",
+      "id": "34",
+      "title": "Least Squares and the Normal Equations",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/34",
+      "path": "math/0034-least-squares-and-the-normal-equations",
+      "first_solved_at": "2026-11-04T19:50:25.495Z",
+      "last_pushed_at": "2026-11-04T19:50:25.495Z"
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-11-04T19:52:54.968Z",
+      "last_pushed_at": "2026-11-04T19:52:54.968Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-11-04T20:00:22.724Z",
+      "last_pushed_at": "2026-11-04T20:00:22.724Z",
+      "language": "python",
+      "lines": 21
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-11-04T20:03:25.475Z",
+      "last_pushed_at": "2026-11-04T20:03:25.475Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-11-04T20:04:53.091Z",
+      "last_pushed_at": "2026-11-04T20:04:53.091Z"
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-11-04T20:36:31.760Z",
+      "last_pushed_at": "2026-11-04T20:36:31.760Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
