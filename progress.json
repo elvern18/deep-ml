@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:48:52.959Z",
+  "generated_at": "2026-11-23T18:48:56.010Z",
   "items": {
     "math:62": {
       "kind": "math",
@@ -325,6 +325,119 @@
       "last_pushed_at": "2026-11-05T11:34:35.396Z",
       "language": "python",
       "lines": 38
+    },
+    "math:3": {
+      "kind": "math",
+      "id": "3",
+      "title": "Neural Network Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/3",
+      "path": "math/0003-neural-network-derivatives",
+      "first_solved_at": "2026-11-07T14:49:24.858Z",
+      "last_pushed_at": "2026-11-07T14:49:24.858Z"
+    },
+    "math:4": {
+      "kind": "math",
+      "id": "4",
+      "title": "Backpropagation and the Chain Rule",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/4",
+      "path": "math/0004-backpropagation-and-the-chain-rule",
+      "first_solved_at": "2026-11-07T14:51:49.550Z",
+      "last_pushed_at": "2026-11-07T14:51:49.550Z"
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-11-07T14:56:58.243Z",
+      "last_pushed_at": "2026-11-07T14:56:58.243Z",
+      "language": "python",
+      "lines": 33
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-11-07T14:58:13.332Z",
+      "last_pushed_at": "2026-11-07T14:58:13.332Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:217": {
+      "kind": "problem",
+      "id": "217",
+      "title": "Derivatives of Activation Functions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/217",
+      "path": "problems/0217-derivatives-of-activation-functions",
+      "first_solved_at": "2026-11-07T14:59:43.846Z",
+      "last_pushed_at": "2026-11-07T14:59:43.846Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:25": {
+      "kind": "problem",
+      "id": "25",
+      "title": "Single Neuron with Backpropagation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/25",
+      "path": "problems/0025-single-neuron-with-backpropagation",
+      "first_solved_at": "2026-11-07T15:01:16.026Z",
+      "last_pushed_at": "2026-11-07T15:01:16.026Z",
+      "language": "python",
+      "lines": 47
+    },
+    "problem:26": {
+      "kind": "problem",
+      "id": "26",
+      "title": "Implementing Basic Autograd Operations",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/26",
+      "path": "problems/0026-implementing-basic-autograd-operations",
+      "first_solved_at": "2026-11-07T15:08:08.531Z",
+      "last_pushed_at": "2026-11-07T15:08:08.531Z",
+      "language": "python",
+      "lines": 54
+    },
+    "problem:1076": {
+      "kind": "problem",
+      "id": "1076",
+      "title": "Backpropagation Gradients for a Dense Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1076",
+      "path": "problems/1076-backpropagation-gradients-for-a-dense-layer",
+      "first_solved_at": "2026-11-07T15:31:05.441Z",
+      "last_pushed_at": "2026-11-07T15:31:05.441Z",
+      "language": "python",
+      "lines": 54
+    },
+    "lab:6": {
+      "kind": "lab",
+      "id": "6",
+      "title": "MNIST: Build Neural Network from Scratch (NumPy Only)",
+      "difficulty": "hard",
+      "category": "Neural Network Fundamentals",
+      "url": "https://www.deep-ml.com/labs/6",
+      "path": "labs/0006-mnist-build-neural-network-from-scratch-numpy-only",
+      "first_solved_at": "2026-11-07T15:51:05.441Z",
+      "last_pushed_at": "2026-11-07T15:51:05.441Z",
+      "language": "python",
+      "lines": 145
     }
   }
 }
