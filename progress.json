@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:48:59.132Z",
+  "generated_at": "2026-11-23T18:49:02.274Z",
   "items": {
     "math:62": {
       "kind": "math",
@@ -631,6 +631,32 @@
       "last_pushed_at": "2026-11-21T15:10:58.758Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:155": {
+      "kind": "problem",
+      "id": "155",
+      "title": "CosineAnnealingLR Learning Rate Scheduler",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/155",
+      "path": "problems/0155-cosineannealinglr-learning-rate-scheduler",
+      "first_solved_at": "2026-11-22T14:20:46.595Z",
+      "last_pushed_at": "2026-11-22T14:20:46.595Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:197": {
+      "kind": "problem",
+      "id": "197",
+      "title": "Gradient Clipping by Global Norm",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/197",
+      "path": "problems/0197-gradient-clipping-by-global-norm",
+      "first_solved_at": "2026-11-22T14:45:27.852Z",
+      "last_pushed_at": "2026-11-22T14:45:27.852Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
