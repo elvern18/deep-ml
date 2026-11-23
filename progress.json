@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:49:05.207Z",
+  "generated_at": "2026-11-23T18:49:07.937Z",
   "items": {
     "math:62": {
       "kind": "math",
@@ -43,7 +43,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-10-29T18:45:49.385Z",
-      "last_pushed_at": "2026-10-29T18:45:49.385Z"
+      "last_pushed_at": "2026-11-23T18:49:07.934Z"
     },
     "math:9": {
       "kind": "math",
@@ -54,7 +54,7 @@
       "url": "https://www.deep-ml.com/math-problems/9",
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-10-29T18:47:53.729Z",
-      "last_pushed_at": "2026-10-29T18:47:53.729Z"
+      "last_pushed_at": "2026-11-23T18:49:07.934Z"
     },
     "math:10": {
       "kind": "math",
@@ -65,7 +65,7 @@
       "url": "https://www.deep-ml.com/math-problems/10",
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-10-29T19:03:01.493Z",
-      "last_pushed_at": "2026-10-29T19:03:01.493Z"
+      "last_pushed_at": "2026-11-23T18:49:07.934Z"
     },
     "problem:83": {
       "kind": "problem",
@@ -128,7 +128,7 @@
       "url": "https://www.deep-ml.com/math-problems/12",
       "path": "math/0012-inverse-and-rank",
       "first_solved_at": "2026-10-30T17:30:31.336Z",
-      "last_pushed_at": "2026-10-30T17:30:31.336Z"
+      "last_pushed_at": "2026-11-23T18:49:07.934Z"
     },
     "problem:8": {
       "kind": "problem",
@@ -152,7 +152,7 @@
       "url": "https://www.deep-ml.com/math-problems/13",
       "path": "math/0013-solving-linear-systems",
       "first_solved_at": "2026-10-30T20:22:17.780Z",
-      "last_pushed_at": "2026-10-30T20:22:17.780Z"
+      "last_pushed_at": "2026-11-23T18:49:07.934Z"
     },
     "math:15": {
       "kind": "math",
@@ -163,7 +163,7 @@
       "url": "https://www.deep-ml.com/math-problems/15",
       "path": "math/0015-matrix-decompositions-lu-and-qr",
       "first_solved_at": "2026-10-31T06:08:00.655Z",
-      "last_pushed_at": "2026-10-31T06:08:00.655Z"
+      "last_pushed_at": "2026-11-23T18:49:07.934Z"
     },
     "problem:58": {
       "kind": "problem",
@@ -226,7 +226,7 @@
       "url": "https://www.deep-ml.com/math-problems/14",
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-11-02T19:34:40.788Z",
-      "last_pushed_at": "2026-11-02T19:34:40.788Z"
+      "last_pushed_at": "2026-11-23T18:49:07.934Z"
     },
     "math:34": {
       "kind": "math",
@@ -237,7 +237,7 @@
       "url": "https://www.deep-ml.com/math-problems/34",
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-11-04T19:50:25.495Z",
-      "last_pushed_at": "2026-11-04T19:50:25.495Z"
+      "last_pushed_at": "2026-11-23T18:49:07.934Z"
     },
     "problem:66": {
       "kind": "problem",
@@ -274,7 +274,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-11-04T20:03:25.475Z",
-      "last_pushed_at": "2026-11-04T20:03:25.475Z"
+      "last_pushed_at": "2026-11-23T18:49:07.934Z"
     },
     "math:5": {
       "kind": "math",
@@ -285,7 +285,7 @@
       "url": "https://www.deep-ml.com/math-problems/5",
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-11-04T20:04:53.091Z",
-      "last_pushed_at": "2026-11-04T20:04:53.091Z"
+      "last_pushed_at": "2026-11-23T18:49:07.934Z"
     },
     "problem:15": {
       "kind": "problem",
@@ -335,7 +335,7 @@
       "url": "https://www.deep-ml.com/math-problems/3",
       "path": "math/0003-neural-network-derivatives",
       "first_solved_at": "2026-11-07T14:49:24.858Z",
-      "last_pushed_at": "2026-11-07T14:49:24.858Z"
+      "last_pushed_at": "2026-11-23T18:49:07.934Z"
     },
     "math:4": {
       "kind": "math",
@@ -346,7 +346,7 @@
       "url": "https://www.deep-ml.com/math-problems/4",
       "path": "math/0004-backpropagation-and-the-chain-rule",
       "first_solved_at": "2026-11-07T14:51:49.550Z",
-      "last_pushed_at": "2026-11-07T14:51:49.550Z"
+      "last_pushed_at": "2026-11-23T18:49:07.934Z"
     },
     "problem:24": {
       "kind": "problem",
@@ -591,7 +591,7 @@
       "url": "https://www.deep-ml.com/math-problems/132",
       "path": "math/0132-adam-bias-correction",
       "first_solved_at": "2026-11-21T14:32:43.350Z",
-      "last_pushed_at": "2026-11-21T14:32:43.350Z"
+      "last_pushed_at": "2026-11-23T18:49:07.934Z"
     },
     "problem:49": {
       "kind": "problem",
