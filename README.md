@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**53** solved · 35 problems · 2 labs · 16 math
+**57** solved · 39 problems · 2 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-10-30 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-11-21 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Compute a Gradient with Tinygrad Autograd](https://www.deep-ml.com/problems/893) | easy | 2026-11-21 | [solution](problems/0893-compute-a-gradient-with-tinygrad-autograd) |
+| [Compute Arithmetic Intensity and Classify Bottleneck](https://www.deep-ml.com/problems/414) | easy | 2026-11-23 | [solution](problems/0414-compute-arithmetic-intensity-and-classify-bottleneck) |
+| [Compute TTFT ITL and TPS from a Token Timestamp Stream](https://www.deep-ml.com/problems/411) | easy | 2026-11-23 | [solution](problems/0411-compute-ttft-itl-and-tps-from-a-token-timestamp-stream) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-11-21 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Create a Float Tensor with Tinygrad](https://www.deep-ml.com/problems/889) | easy | 2026-11-21 | [solution](problems/0889-create-a-float-tensor-with-tinygrad) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-11-07 | [solution](problems/0217-derivatives-of-activation-functions) |
@@ -35,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Backpropagation Gradients for a Dense Layer](https://www.deep-ml.com/problems/1076) | medium | 2026-11-07 | [solution](problems/1076-backpropagation-gradients-for-a-dense-layer) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-11-02 | [solution](problems/0334-cholesky-decomposition) |
 | [CosineAnnealingLR Learning Rate Scheduler](https://www.deep-ml.com/problems/155) | medium | 2026-11-22 | [solution](problems/0155-cosineannealinglr-learning-rate-scheduler) |
+| [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-11-23 | [solution](problems/0151-dropout-layer) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-31 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-11-22 | [solution](problems/0197-gradient-clipping-by-global-norm) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-11-21 | [solution](problems/0049-implement-adam-optimization-algorithm) |
@@ -44,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-11-02 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-29 | [solution](problems/0009-matrix-times-matrix) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-11-05 | [solution](problems/0313-numerical-gradient-checking) |
+| [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-11-23 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-11-07 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Vectorizing with jax.vmap](https://www.deep-ml.com/problems/1328) | medium | 2026-11-21 | [solution](problems/1328-vectorizing-with-jax-vmap) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-11-02 | [solution](problems/0201-qr-decomposition) |
