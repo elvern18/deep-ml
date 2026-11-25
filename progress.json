@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:16:51.248Z",
+  "generated_at": "2026-11-25T10:30:22.763Z",
   "items": {
     "math:62": {
       "kind": "math",
@@ -720,6 +720,17 @@
       "path": "math/0065-speculative-speedup-as-a-geometric-series",
       "first_solved_at": "2026-11-25T08:16:50.391Z",
       "last_pushed_at": "2026-11-25T08:16:50.391Z"
+    },
+    "math:304": {
+      "kind": "math",
+      "id": "304",
+      "title": "DSpark: Confidence-Scheduled Variable-Length Verification",
+      "difficulty": "hard",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/304",
+      "path": "math/0304-dspark-confidence-scheduled-variable-length-verification",
+      "first_solved_at": "2026-11-25T10:30:21.685Z",
+      "last_pushed_at": "2026-11-25T10:30:21.685Z"
     }
   }
 }
