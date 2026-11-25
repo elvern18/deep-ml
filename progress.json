@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:49:07.937Z",
+  "generated_at": "2026-11-25T08:16:51.248Z",
   "items": {
     "math:62": {
       "kind": "math",
@@ -709,6 +709,17 @@
       "last_pushed_at": "2026-11-23T18:47:50.930Z",
       "language": "python",
       "lines": 39
+    },
+    "math:65": {
+      "kind": "math",
+      "id": "65",
+      "title": "Speculative Speedup as a Geometric Series",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/65",
+      "path": "math/0065-speculative-speedup-as-a-geometric-series",
+      "first_solved_at": "2026-11-25T08:16:50.391Z",
+      "last_pushed_at": "2026-11-25T08:16:50.391Z"
     }
   }
 }
